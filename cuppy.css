@@ -9,6 +9,9 @@ body{
     line-height: 30px;
     
 }
+p{
+    color: whitesmoke;
+}
 .container{
     margin: 0 auto;
     width: 80%;
